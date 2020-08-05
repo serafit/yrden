@@ -1,7 +1,7 @@
 # yrden
 yrden (witcher's sign) - DoS attack written in python 3
 
-# installation (Linux)
+# installation (Linux/Termux)
 git clone https://github.com/user22813/yrden 
 
 pip3 install requests 
